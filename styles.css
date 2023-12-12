@@ -1,0 +1,16 @@
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: #666;
+	background-color: #eee;
+}
+img {
+	width: auto;
+	height: 400px;
+}
+h1 {
+	color: #000;
+}
+h2,
+h3 {
+	color: #444;
+}
