@@ -7,10 +7,29 @@ img {
 	width: auto;
 	height: 400px;
 }
-h1 {
-	color: #000;
+.content {
+	width: 500px;
+	background-color: #ddd;
+	text-align: center;
+	margin: 100px auto;
+	padding: 20px;
 }
-h2,
-h3 {
-	color: #444;
+.title {
+	color: #000;
+	margin: 0 0 16px;
+	padding: 5px 0;
+	background-color: #eee;
+}
+.main-image {
+	width: 500px;
+	height: auto;
+}
+.links {
+	background-color: #eee;
+	margin-bottom: 0;
+	padding: 10px 0;
+}
+.link {
+	margin: 10px 0;
+	list-style-type: none;
 }
